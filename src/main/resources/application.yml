@@ -7,3 +7,6 @@ eureka:
     register-with-eureka: false
     fetch-registry: false
   renewalPercentThreshold: 0.85
+spring:
+  application:
+    name: REGISTRY-SERVICE
