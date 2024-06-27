@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.service.registry.registryservice.RegistryServiceApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 56.86 s -- in com.service.registry.registryservice.RegistryServiceApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 41.03 s -- in com.service.registry.registryservice.RegistryServiceApplicationTests
