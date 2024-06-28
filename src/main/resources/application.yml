@@ -2,7 +2,7 @@ server:
   port: 8761
 eureka:
   instance:
-    instance-id: REGISTRY-SERVICE
+    hostname: REGISTRY-SERVICE
   client:
     register-with-eureka: false
     fetch-registry: false
