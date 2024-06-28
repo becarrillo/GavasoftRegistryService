@@ -2,7 +2,7 @@ server:
   port: 8761
 eureka:
   instance:
-    hostname: REGISTRY-SERVICE
+    hostname: registry-service-production.up.railway.app/eureka/
   client:
     register-with-eureka: false
     fetch-registry: false
